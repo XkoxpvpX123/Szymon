@@ -1,0 +1,2 @@
+# Szymon
+Discord Bot
